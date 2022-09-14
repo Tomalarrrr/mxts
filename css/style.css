@@ -906,8 +906,8 @@ label.color-6 {
 .img-wrap {
   position: absolute;
   top: 150px;
-  left: -50px;
-  width: 500px;
+  left: -250px;
+  width: 800px;
   height: 410px;
   display: inline-block;
   z-index: 9;
@@ -1439,7 +1439,7 @@ border: 1px solid #4d5974;
 padding: 1em 1.5em 1em 0;
 }
 .accordion button .faq-icon {
-color: #f45a51;
+color: #03327d;
 display: inline-block;
 position: absolute;
 top: 18px;
@@ -1925,9 +1925,10 @@ html {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  width: 100%;
+  width: 90%;
   height: 100%;
   z-index: 0;
+  left: 5%;
 }
 
 .page-header .container > .content-center {
