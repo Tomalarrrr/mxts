@@ -1925,10 +1925,10 @@ html {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  width: 90%;
+  width: 75%;
   height: 100%;
   z-index: 0;
-  left: 5%;
+  left: 12.5%;
 }
 
 .page-header .container > .content-center {
