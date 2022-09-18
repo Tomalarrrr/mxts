@@ -42,7 +42,7 @@ NEW PAGE START
   align-items: center;
 }
 .header .navbar .menu-item:not(:first-child) {
-  margin-left: 5rem;
+  margin-left: 7.5rem;
 }
 .header .navbar .menu-item a {
   font-family: inherit;
@@ -1943,3 +1943,4 @@ html {
   max-width: 880px;
   justify-content: center;
 }
+
