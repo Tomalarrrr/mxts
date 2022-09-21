@@ -1,7 +1,7 @@
 User-agent: *
 disallow: 
 
-sitemap: https://www.cravingcake.co.uk/sitemap.xml
+sitemap: https://www.epoxywoods.co.uk/sitemap.xml
 
 <head>
 <meta name=”robots” content=”nofollow”>
